@@ -25,8 +25,8 @@ class Bar extends StatelessWidget {
             flexibleSpace: Container(
               decoration: BoxDecoration(
                 image: const DecorationImage(
-                  image: NetworkImage('OIP.APMcwBROoc29Aw-KxEvX_AHaGU?pid=ImgDet&rs=1'),
-                  fit: BoxFit.fitHeight,
+                  image: NetworkImage('https://i.postimg.cc/4Nm5KTKJ/city.jpg'),
+                  fit: BoxFit.none,
                   repeat: ImageRepeat.repeat,
                 ),
               ),
