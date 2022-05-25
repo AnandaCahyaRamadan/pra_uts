@@ -156,7 +156,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 50,
-                          child: Text("Kaset Album Bat Country"),
+                          child: Text("Kaset Album Bat Country", style: TextStyle(fontWeight: FontWeight.bold)),
                         ),
                       ),
                     ),
