@@ -54,7 +54,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 50,
-                          child: Text('Kaset Album Use Your Ilusion 1'),
+                          child: Text('Kaset Album Use Your Ilusion 1', style: TextStyle(fontWeight: FontWeight.bold)),
                         ),
                       ),
                     ),
