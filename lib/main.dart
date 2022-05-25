@@ -66,7 +66,7 @@ class MyHomePage extends StatelessWidget {
                         },
                         child: const SizedBox(
                           width: 300,
-                          height: 10,
+                          height: 30,
                           child: Text("Rp.1.090.000"),
                         ),
                       ),
