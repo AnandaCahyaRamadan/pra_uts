@@ -32,11 +32,7 @@ class Bar extends StatelessWidget {
               ),
             ),
           )),
-      body: Center(
-        child: Text(
-          'Text',
-        ),
-      ),
+      body: ListView(children: []),
     );
   }
 }
