@@ -46,7 +46,6 @@ class MyHomePage extends StatelessWidget {
                       margin: EdgeInsets.all(5),
                     ),
                     Card(
-                      title: Text('tes'),
                       child: InkWell(
                         splashColor: Colors.blue.withAlpha(30),
                         onTap: () {
