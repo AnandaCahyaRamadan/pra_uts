@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//dari awal lupa konek github
 
 void main() => runApp(MyApp());
 
@@ -65,7 +66,7 @@ class MyHomePage extends StatelessWidget {
                         },
                         child: const SizedBox(
                           width: 300,
-                          height: 30,
+                          height: 10,
                           child: Text("Rp.1.090.000"),
                         ),
                       ),
@@ -77,11 +78,6 @@ class MyHomePage extends StatelessWidget {
                 child: Column(
                   children: [
                     Container(
-                      // child: (Image.network(
-                      //   'https://th.bing.com/th/id/OIP.2uvDCnkbVOzB6rhIM7cllAHaHa?pid=ImgDet&rs=1',
-                      //   width: 180,
-                      // )
-                      // ),
                       decoration: BoxDecoration(
                         color: const Color(0xff7c94b6),
                         image: const DecorationImage(
@@ -184,11 +180,6 @@ class MyHomePage extends StatelessWidget {
                 child: Column(
                   children: [
                     Container(
-                      // child: (Image.network(
-                      //   'https://th.bing.com/th/id/OIP.2uvDCnkbVOzB6rhIM7cllAHaHa?pid=ImgDet&rs=1',
-                      //   width: 180,
-                      // )
-                      // ),
                       decoration: BoxDecoration(
                         color: const Color(0xff7c94b6),
                         image: const DecorationImage(
@@ -291,11 +282,6 @@ class MyHomePage extends StatelessWidget {
                 child: Column(
                   children: [
                     Container(
-                      // child: (Image.network(
-                      //   'https://th.bing.com/th/id/OIP.2uvDCnkbVOzB6rhIM7cllAHaHa?pid=ImgDet&rs=1',
-                      //   width: 180,
-                      // )
-                      // ),
                       decoration: BoxDecoration(
                         color: const Color(0xff7c94b6),
                         image: const DecorationImage(
