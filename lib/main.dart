@@ -205,7 +205,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 50,
-                          child: Text("Kaset Album Chinese Democracy"),
+                          child: Text("Kaset Album Chinese Democracy", style: TextStyle(fontWeight: FontWeight.bold)),
                         ),
                       ),
                     ),
@@ -258,7 +258,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 50,
-                          child: Text("Kaset Album Nightmare"),
+                          child: Text("Kaset Album Nightmare", style: TextStyle(fontWeight: FontWeight.bold)),
                         ),
                       ),
                     ),
@@ -307,7 +307,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 50,
-                          child: Text("Kaset Album Walking In The Falen"),
+                          child: Text("Kaset Album Walking In The Falen", style: TextStyle(fontWeight: FontWeight.bold)),
                         ),
                       ),
                     ),
