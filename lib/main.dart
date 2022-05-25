@@ -35,6 +35,7 @@ class Bar extends StatelessWidget {
       body: ListView(children: [
         ListTile(title: Text('Album Bat Country', style: TextStyle(fontWeight: FontWeight.bold))),
         ListTile(title: Text('Rp.1.000.000', style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold))),
+      ListTile(title: Text('Stok Tersedia'),
       ]),
     );
   }
