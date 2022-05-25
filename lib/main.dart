@@ -116,7 +116,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 30,
-                          child: Text("Rp.1.000.000"),
+                          child: Text("Rp.1.000.000", style: TextStyle(color: Colors.red)),
                         ),
                       ),
                     ),
@@ -169,7 +169,7 @@ class MyHomePage extends StatelessWidget {
                         child: const SizedBox(
                           width: 300,
                           height: 30,
-                          child: Text("Rp.1.000.000"),
+                          child: Text("Rp.1.000.000", style: TextStyle(color: Colors.red)),
                         ),
                       ),
                     ),
