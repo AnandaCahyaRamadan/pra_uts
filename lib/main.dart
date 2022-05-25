@@ -25,7 +25,7 @@ class Bar extends StatelessWidget {
             flexibleSpace: Container(
               decoration: BoxDecoration(
                 image: const DecorationImage(
-                  image: NetworkImage('https://i.postimg.cc/t44LMKT3/album.webp'),
+                  image: NetworkImage('https://i.postimg.cc/4Nm5KTKJ/city.jpg'),
                   fit: BoxFit.none,
                   repeat: ImageRepeat.repeat,
                 ),
@@ -33,7 +33,7 @@ class Bar extends StatelessWidget {
             ),
           )),
       body: ListView(children: [
-        ListTile(titie: 'Album Bat Country')
+        ListTile(title: Text('Album Bat Country')),
       ]),
     );
   }
