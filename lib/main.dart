@@ -32,7 +32,9 @@ class Bar extends StatelessWidget {
               ),
             ),
           )),
-      body: ListView(children: []),
+      body: ListView(children: [
+        ListTile(titie: 'Album Bat Country')
+      ]),
     );
   }
 }
