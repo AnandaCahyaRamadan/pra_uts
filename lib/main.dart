@@ -26,7 +26,7 @@ class Bar extends StatelessWidget {
               decoration: BoxDecoration(
                 image: const DecorationImage(
                   image: NetworkImage('OIP.APMcwBROoc29Aw-KxEvX_AHaGU?pid=ImgDet&rs=1'),
-                  fit: BoxFit.none,
+                  fit: BoxFit.fitHeight,
                   repeat: ImageRepeat.repeat,
                 ),
               ),
